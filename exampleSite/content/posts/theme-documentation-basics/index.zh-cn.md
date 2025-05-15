@@ -893,7 +893,7 @@ optimizeImages = true
 # {{< link "https://gohugo.io/content-management/urls#permalinks" "Permalinks 配置" >}}
 [Permalinks]
   # posts = ":year/:month/:contentbasename"
-  posts = ":contentbasename"
+  posts = ":slug"
 
 # {{< link "https://gohugo.io/about/hugo-and-gdpr/" "隐私信息配置" >}}
 [privacy]
